@@ -1,3 +1,6 @@
 this is the test on master
 
-REBASE
+1
+2
+3
+
